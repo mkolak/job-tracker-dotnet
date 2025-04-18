@@ -1,0 +1,11 @@
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Model\bin\Debug\net9.0\JobTrackerAPI.Model.deps.json
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Model\bin\Debug\net9.0\JobTrackerAPI.Model.dll
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Model\bin\Debug\net9.0\JobTrackerAPI.Model.pdb
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Model\obj\Debug\net9.0\JobTrackerAPI.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Model\obj\Debug\net9.0\JobTrackerAPI.Model.AssemblyInfoInputs.cache
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Model\obj\Debug\net9.0\JobTrackerAPI.Model.AssemblyInfo.cs
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Model\obj\Debug\net9.0\JobTrackerAPI.Model.csproj.CoreCompileInputs.cache
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Model\obj\Debug\net9.0\JobTrackerAPI.Model.dll
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Model\obj\Debug\net9.0\refint\JobTrackerAPI.Model.dll
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Model\obj\Debug\net9.0\JobTrackerAPI.Model.pdb
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Model\obj\Debug\net9.0\ref\JobTrackerAPI.Model.dll

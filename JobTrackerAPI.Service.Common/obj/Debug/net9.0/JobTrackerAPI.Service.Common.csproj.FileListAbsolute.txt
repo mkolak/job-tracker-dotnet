@@ -1,0 +1,15 @@
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\bin\Debug\net9.0\JobTrackerAPI.Service.Common.deps.json
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\bin\Debug\net9.0\JobTrackerAPI.Service.Common.dll
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\bin\Debug\net9.0\JobTrackerAPI.Service.Common.pdb
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\bin\Debug\net9.0\JobTrackerAPI.Model.dll
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\bin\Debug\net9.0\JobTrackerAPI.Model.pdb
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\obj\Debug\net9.0\JobTrackerAPI.Service.Common.csproj.AssemblyReference.cache
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\obj\Debug\net9.0\JobTrackerAPI.Service.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\obj\Debug\net9.0\JobTrackerAPI.Service.Common.AssemblyInfoInputs.cache
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\obj\Debug\net9.0\JobTrackerAPI.Service.Common.AssemblyInfo.cs
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\obj\Debug\net9.0\JobTrackerAPI.Service.Common.csproj.CoreCompileInputs.cache
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\obj\Debug\net9.0\JobTrack.3A2D822D.Up2Date
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\obj\Debug\net9.0\JobTrackerAPI.Service.Common.dll
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\obj\Debug\net9.0\refint\JobTrackerAPI.Service.Common.dll
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\obj\Debug\net9.0\JobTrackerAPI.Service.Common.pdb
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\obj\Debug\net9.0\ref\JobTrackerAPI.Service.Common.dll

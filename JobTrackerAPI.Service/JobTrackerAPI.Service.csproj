@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\JobTrackerAPI.Service.Common\JobTrackerAPI.Service.Common.csproj" />
+    <ProjectReference Include="..\JobTrackerAPI.Repository\JobTrackerAPI.Repository.csproj" />
+    <ProjectReference Include="..\JobTrackerAPI.Model\JobTrackerAPI.Model.csproj" />
+    <ProjectReference Include="..\JobTrackerAPI.Common\JobTrackerAPI.Common.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
