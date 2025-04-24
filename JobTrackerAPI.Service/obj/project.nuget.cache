@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+iq2QAheMzs=",
+  "dgSpecHash": "geyG1nTOVJ8=",
   "success": true,
-  "projectFilePath": "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Service\\JobTrackerAPI.Service.csproj",
+  "projectFilePath": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.Service\\JobTrackerAPI.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matej\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\matej\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

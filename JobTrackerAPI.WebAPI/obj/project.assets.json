@@ -3233,11 +3233,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj",
+      "projectUniqueName": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj",
       "projectName": "JobTrackerAPI.WebAPI",
-      "projectPath": "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj",
+      "projectPath": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj",
       "packagesPath": "C:\\Users\\matej\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.WebAPI\\obj\\",
+      "outputPath": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3258,14 +3258,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Common\\JobTrackerAPI.Common.csproj": {
-              "projectPath": "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Common\\JobTrackerAPI.Common.csproj"
+            "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.Common\\JobTrackerAPI.Common.csproj": {
+              "projectPath": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.Common\\JobTrackerAPI.Common.csproj"
             },
-            "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Model\\JobTrackerAPI.Model.csproj": {
-              "projectPath": "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Model\\JobTrackerAPI.Model.csproj"
+            "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.Model\\JobTrackerAPI.Model.csproj": {
+              "projectPath": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.Model\\JobTrackerAPI.Model.csproj"
             },
-            "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Service\\JobTrackerAPI.Service.csproj": {
-              "projectPath": "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Service\\JobTrackerAPI.Service.csproj"
+            "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.Service\\JobTrackerAPI.Service.csproj": {
+              "projectPath": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.Service\\JobTrackerAPI.Service.csproj"
             }
           }
         }

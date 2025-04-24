@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OrY5oYcf+9g=",
+  "dgSpecHash": "+Sc8jskepAM=",
   "success": true,
-  "projectFilePath": "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Common\\JobTrackerAPI.Common.csproj",
+  "projectFilePath": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.Common\\JobTrackerAPI.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matej\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.4\\microsoft.entityframeworkcore.9.0.4.nupkg.sha512",
     "C:\\Users\\matej\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.4\\microsoft.entityframeworkcore.abstractions.9.0.4.nupkg.sha512",

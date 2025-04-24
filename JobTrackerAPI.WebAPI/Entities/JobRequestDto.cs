@@ -17,6 +17,6 @@ namespace JobTrackerAPI.WebAPI.Entities
         [Required]
         public string Status { get; set; } = "pending";
 
-        public DateTime? AppliedAt { get; set; } // optional – if null, use default in service
+        public DateTime? AppliedAt { get; set; }
     }
 }

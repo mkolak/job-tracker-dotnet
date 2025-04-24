@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zG4XRaDxwNo=",
+  "dgSpecHash": "m3n7f5aYBvI=",
   "success": true,
-  "projectFilePath": "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj",
+  "projectFilePath": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matej\\.nuget\\packages\\autofac\\8.2.1\\autofac.8.2.1.nupkg.sha512",
     "C:\\Users\\matej\\.nuget\\packages\\autofac.extensions.dependencyinjection\\10.0.0\\autofac.extensions.dependencyinjection.10.0.0.nupkg.sha512",

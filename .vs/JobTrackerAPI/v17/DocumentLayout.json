@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\Repositories\\job-tracker-dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFBD0C9-585B-4EBA-B507-B4588E2DBC2E}|JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj|d:\\learning\\repositories\\job-tracker-dotnet\\jobtrackerapi.webapi\\entities\\monthlystatsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFBD0C9-585B-4EBA-B507-B4588E2DBC2E}|JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj|solutionrelative:jobtrackerapi.webapi\\entities\\monthlystatsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFBD0C9-585B-4EBA-B507-B4588E2DBC2E}|JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj|d:\\learning\\repositories\\job-tracker-dotnet\\jobtrackerapi.webapi\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFBD0C9-585B-4EBA-B507-B4588E2DBC2E}|JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj|solutionrelative:jobtrackerapi.webapi\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFBD0C9-585B-4EBA-B507-B4588E2DBC2E}|JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj|d:\\learning\\repositories\\job-tracker-dotnet\\jobtrackerapi.webapi\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFBD0C9-585B-4EBA-B507-B4588E2DBC2E}|JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj|solutionrelative:jobtrackerapi.webapi\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFBD0C9-585B-4EBA-B507-B4588E2DBC2E}|JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj|d:\\learning\\repositories\\job-tracker-dotnet\\jobtrackerapi.webapi\\controllers\\interviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFBD0C9-585B-4EBA-B507-B4588E2DBC2E}|JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj|solutionrelative:jobtrackerapi.webapi\\controllers\\interviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFBD0C9-585B-4EBA-B507-B4588E2DBC2E}|JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj|d:\\learning\\repositories\\job-tracker-dotnet\\jobtrackerapi.webapi\\entities\\statusstatsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFBD0C9-585B-4EBA-B507-B4588E2DBC2E}|JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj|solutionrelative:jobtrackerapi.webapi\\entities\\statusstatsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFBD0C9-585B-4EBA-B507-B4588E2DBC2E}|JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj|d:\\learning\\repositories\\job-tracker-dotnet\\jobtrackerapi.webapi\\entities\\locationstatsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFBD0C9-585B-4EBA-B507-B4588E2DBC2E}|JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj|solutionrelative:jobtrackerapi.webapi\\entities\\locationstatsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFBD0C9-585B-4EBA-B507-B4588E2DBC2E}|JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj|d:\\learning\\repositories\\job-tracker-dotnet\\jobtrackerapi.webapi\\entities\\jobresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFBD0C9-585B-4EBA-B507-B4588E2DBC2E}|JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj|solutionrelative:jobtrackerapi.webapi\\entities\\jobresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFBD0C9-585B-4EBA-B507-B4588E2DBC2E}|JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj|d:\\learning\\repositories\\job-tracker-dotnet\\jobtrackerapi.webapi\\entities\\interviewresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFBD0C9-585B-4EBA-B507-B4588E2DBC2E}|JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj|solutionrelative:jobtrackerapi.webapi\\entities\\interviewresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFBD0C9-585B-4EBA-B507-B4588E2DBC2E}|JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj|d:\\learning\\repositories\\job-tracker-dotnet\\jobtrackerapi.webapi\\entities\\interviewrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFBD0C9-585B-4EBA-B507-B4588E2DBC2E}|JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj|solutionrelative:jobtrackerapi.webapi\\entities\\interviewrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFBD0C9-585B-4EBA-B507-B4588E2DBC2E}|JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj|d:\\learning\\repositories\\job-tracker-dotnet\\jobtrackerapi.webapi\\entities\\jobrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFBD0C9-585B-4EBA-B507-B4588E2DBC2E}|JobTrackerAPI.WebAPI\\JobTrackerAPI.WebAPI.csproj|solutionrelative:jobtrackerapi.webapi\\entities\\jobrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "JobTrackerAPI.WebAPI\\Controllers\\JobsController.cs",
+              "ToolTip": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "JobTrackerAPI.WebAPI\\Controllers\\JobsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:05:30.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatsController.cs",
+              "DocumentMoniker": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\Controllers\\StatsController.cs",
+              "RelativeDocumentMoniker": "JobTrackerAPI.WebAPI\\Controllers\\StatsController.cs",
+              "ToolTip": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\Controllers\\StatsController.cs",
+              "RelativeToolTip": "JobTrackerAPI.WebAPI\\Controllers\\StatsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:05:29.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InterviewsController.cs",
+              "DocumentMoniker": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\Controllers\\InterviewsController.cs",
+              "RelativeDocumentMoniker": "JobTrackerAPI.WebAPI\\Controllers\\InterviewsController.cs",
+              "ToolTip": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\Controllers\\InterviewsController.cs",
+              "RelativeToolTip": "JobTrackerAPI.WebAPI\\Controllers\\InterviewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:05:26.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatusStatsResponseDto.cs",
+              "DocumentMoniker": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\Entities\\StatusStatsResponseDto.cs",
+              "RelativeDocumentMoniker": "JobTrackerAPI.WebAPI\\Entities\\StatusStatsResponseDto.cs",
+              "ToolTip": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\Entities\\StatusStatsResponseDto.cs",
+              "RelativeToolTip": "JobTrackerAPI.WebAPI\\Entities\\StatusStatsResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:05:24.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonthlyStatsResponseDto.cs",
+              "DocumentMoniker": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\Entities\\MonthlyStatsResponseDto.cs",
+              "RelativeDocumentMoniker": "JobTrackerAPI.WebAPI\\Entities\\MonthlyStatsResponseDto.cs",
+              "ToolTip": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\Entities\\MonthlyStatsResponseDto.cs",
+              "RelativeToolTip": "JobTrackerAPI.WebAPI\\Entities\\MonthlyStatsResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:05:23.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocationStatsResponseDto.cs",
+              "DocumentMoniker": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\Entities\\LocationStatsResponseDto.cs",
+              "RelativeDocumentMoniker": "JobTrackerAPI.WebAPI\\Entities\\LocationStatsResponseDto.cs",
+              "ToolTip": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\Entities\\LocationStatsResponseDto.cs",
+              "RelativeToolTip": "JobTrackerAPI.WebAPI\\Entities\\LocationStatsResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:05:23.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobResponseDto.cs",
+              "DocumentMoniker": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\Entities\\JobResponseDto.cs",
+              "RelativeDocumentMoniker": "JobTrackerAPI.WebAPI\\Entities\\JobResponseDto.cs",
+              "ToolTip": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\Entities\\JobResponseDto.cs",
+              "RelativeToolTip": "JobTrackerAPI.WebAPI\\Entities\\JobResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:05:22.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InterviewResponseDto.cs",
+              "DocumentMoniker": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\Entities\\InterviewResponseDto.cs",
+              "RelativeDocumentMoniker": "JobTrackerAPI.WebAPI\\Entities\\InterviewResponseDto.cs",
+              "ToolTip": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\Entities\\InterviewResponseDto.cs",
+              "RelativeToolTip": "JobTrackerAPI.WebAPI\\Entities\\InterviewResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:05:21.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InterviewRequestDto.cs",
+              "DocumentMoniker": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\Entities\\InterviewRequestDto.cs",
+              "RelativeDocumentMoniker": "JobTrackerAPI.WebAPI\\Entities\\InterviewRequestDto.cs",
+              "ToolTip": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\Entities\\InterviewRequestDto.cs",
+              "RelativeToolTip": "JobTrackerAPI.WebAPI\\Entities\\InterviewRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:05:20.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobRequestDto.cs",
+              "DocumentMoniker": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\Entities\\JobRequestDto.cs",
+              "RelativeDocumentMoniker": "JobTrackerAPI.WebAPI\\Entities\\JobRequestDto.cs",
+              "ToolTip": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.WebAPI\\Entities\\JobRequestDto.cs",
+              "RelativeToolTip": "JobTrackerAPI.WebAPI\\Entities\\JobRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:03:18.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

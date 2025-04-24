@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Repository.Common\\JobTrackerAPI.Repository.Common.csproj": {}
+    "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.Repository.Common\\JobTrackerAPI.Repository.Common.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Model\\JobTrackerAPI.Model.csproj": {
+    "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.Model\\JobTrackerAPI.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Model\\JobTrackerAPI.Model.csproj",
+        "projectUniqueName": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.Model\\JobTrackerAPI.Model.csproj",
         "projectName": "JobTrackerAPI.Model",
-        "projectPath": "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Model\\JobTrackerAPI.Model.csproj",
+        "projectPath": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.Model\\JobTrackerAPI.Model.csproj",
         "packagesPath": "C:\\Users\\matej\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Model\\obj\\",
+        "outputPath": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Repository.Common\\JobTrackerAPI.Repository.Common.csproj": {
+    "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.Repository.Common\\JobTrackerAPI.Repository.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Repository.Common\\JobTrackerAPI.Repository.Common.csproj",
+        "projectUniqueName": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.Repository.Common\\JobTrackerAPI.Repository.Common.csproj",
         "projectName": "JobTrackerAPI.Repository.Common",
-        "projectPath": "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Repository.Common\\JobTrackerAPI.Repository.Common.csproj",
+        "projectPath": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.Repository.Common\\JobTrackerAPI.Repository.Common.csproj",
         "packagesPath": "C:\\Users\\matej\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Repository.Common\\obj\\",
+        "outputPath": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.Repository.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Model\\JobTrackerAPI.Model.csproj": {
-                "projectPath": "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Model\\JobTrackerAPI.Model.csproj"
+              "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.Model\\JobTrackerAPI.Model.csproj": {
+                "projectPath": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.Model\\JobTrackerAPI.Model.csproj"
               }
             }
           }

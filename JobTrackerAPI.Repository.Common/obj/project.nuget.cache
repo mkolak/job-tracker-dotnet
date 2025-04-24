@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ok8pHjd7leA=",
+  "dgSpecHash": "Iyu/nstl1aI=",
   "success": true,
-  "projectFilePath": "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Repository.Common\\JobTrackerAPI.Repository.Common.csproj",
+  "projectFilePath": "D:\\Learning\\Repositories\\job-tracker-dotnet\\JobTrackerAPI.Repository.Common\\JobTrackerAPI.Repository.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
