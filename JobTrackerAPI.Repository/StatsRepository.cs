@@ -1,8 +1,7 @@
-﻿using JobTrackerAPI.Common.Query;
-using JobTrackerAPI.Model.DTOs;
+﻿using JobTrackerAPI.Model.DTOs;
 using JobTrackerAPI.Repository.Common;
 using JobTrackerAPI.Repository.Data;
-using JobTrackerAPI.Service.DTOs;
+using JobTrackerAPI.Repository.Query;
 using Microsoft.EntityFrameworkCore;
 
 namespace JobTrackerAPI.Repository

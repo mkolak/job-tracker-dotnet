@@ -1,13 +1,12 @@
-﻿using System.Globalization;
-using JobTrackerAPI.Model.DTOs;
-using JobTrackerAPI.Model.Entities;
+﻿using JobTrackerAPI.Model.DTOs;
+using JobTrackerAPI.Repository.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace JobTrackerAPI.Common.Query
+namespace JobTrackerAPI.Repository.Query
 {
     public static class JobQueryBuilder
     {
-        public static IQueryable<Job> ApplyFilters(IQueryable<Job> query, JobQueryParameters parameters)
+        public static IQueryable<JobEntity> ApplyFilters(IQueryable<JobEntity> query, JobQueryParameters parameters)
         {
             if (!string.IsNullOrWhiteSpace(parameters.Advertiser))
                 query = query.Where(j => j.Advertiser.ToLower().Contains(parameters.Advertiser.ToLower()));
@@ -24,19 +23,16 @@ namespace JobTrackerAPI.Common.Query
                 query = query.Where(j => allowedStatuses.Contains(j.Status));
             }
 
-            var culture = CultureInfo.InvariantCulture;
-            var styles = DateTimeStyles.AdjustToUniversal | DateTimeStyles.AssumeUniversal;
+            if (parameters.StartDate.HasValue)
+                query = query.Where(j => j.AppliedAt >= parameters.StartDate.Value);
 
-            if (DateTime.TryParse(parameters.StartDate, culture, styles, out var start))
-                query = query.Where(j => j.AppliedAt >= start);
-
-            if (DateTime.TryParse(parameters.EndDate, culture, styles, out var end))
-                query = query.Where(j => j.AppliedAt <= end);
+            if (parameters.EndDate.HasValue)
+                query = query.Where(j => j.AppliedAt <= parameters.EndDate.Value);
 
             return query;
         }
 
-        public static IQueryable<Job> ApplySort(IQueryable<Job> query, JobQueryParameters parameters)
+        public static IQueryable<JobEntity> ApplySort(IQueryable<JobEntity> query, JobQueryParameters parameters)
         {
             if (string.IsNullOrWhiteSpace(parameters.Sort))
                 return query.OrderByDescending(j => j.AppliedAt);

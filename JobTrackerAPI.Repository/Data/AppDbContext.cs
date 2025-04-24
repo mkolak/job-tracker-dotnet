@@ -1,4 +1,4 @@
-﻿using JobTrackerAPI.Model.Entities;
+﻿using JobTrackerAPI.Repository.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace JobTrackerAPI.Repository.Data
@@ -8,15 +8,16 @@ namespace JobTrackerAPI.Repository.Data
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { 
         }
 
-        public DbSet<Job> Jobs { get; set; }
-        public DbSet<Interview> Interviews { get; set; }
+        public DbSet<JobEntity> Jobs { get; set; }
+        public DbSet<InterviewEntity> Interviews { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder) {
-            modelBuilder.Entity<Job>()
+            modelBuilder.Entity<JobEntity>()
                 .HasMany(j => j.Interviews)
                 .WithOne(i => i.Job)
                 .HasForeignKey(i => i.JobAdvertisementId)
                 .OnDelete(DeleteBehavior.Cascade);
+
         }
     }
 }

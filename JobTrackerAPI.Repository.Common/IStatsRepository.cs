@@ -1,5 +1,4 @@
 ﻿using JobTrackerAPI.Model.DTOs;
-using JobTrackerAPI.Service.DTOs;
 
 namespace JobTrackerAPI.Repository.Common
 {

@@ -1,4 +1,4 @@
-﻿namespace JobTrackerAPI.Service.DTOs
+﻿namespace JobTrackerAPI.Model.DTOs
 {
     public class MonthlyStatusStatsDto
     {

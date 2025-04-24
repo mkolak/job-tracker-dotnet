@@ -13,3 +13,9 @@ D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\obj\Debug\net9.0\Job
 D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\obj\Debug\net9.0\refint\JobTrackerAPI.Service.Common.dll
 D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\obj\Debug\net9.0\JobTrackerAPI.Service.Common.pdb
 D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\obj\Debug\net9.0\ref\JobTrackerAPI.Service.Common.dll
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\bin\Debug\net9.0\JobTrackerAPI.Common.dll
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\bin\Debug\net9.0\JobTrackerAPI.Repository.Common.dll
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\bin\Debug\net9.0\JobTrackerAPI.Repository.dll
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\bin\Debug\net9.0\JobTrackerAPI.Repository.pdb
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\bin\Debug\net9.0\JobTrackerAPI.Common.pdb
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.Service.Common\bin\Debug\net9.0\JobTrackerAPI.Repository.Common.pdb

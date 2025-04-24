@@ -1,5 +1,7 @@
-﻿using JobTrackerAPI.Model.Entities;
+﻿using AutoMapper;
+using JobTrackerAPI.Model.Entities;
 using JobTrackerAPI.Service.Common;
+using JobTrackerAPI.WebAPI.Entities;
 using Microsoft.AspNetCore.Mvc;
 
 namespace JobTrackerAPI.WebAPI.Controllers
@@ -9,46 +11,27 @@ namespace JobTrackerAPI.WebAPI.Controllers
     public class InterviewsController : ControllerBase
     {
         private readonly IInterviewService _interviewService;
+        private readonly IMapper _mapper;
 
-        public InterviewsController(IInterviewService interviewService){
+        public InterviewsController(IInterviewService interviewService, IMapper mapper)
+        {
             _interviewService = interviewService;
+            _mapper = mapper;
         }
 
         [HttpGet]
         public async Task<IActionResult> GetAllInterviews(){
             var interviews = await _interviewService.GetAllAsync();
 
-            var result = interviews.Select(i => new
-            {
-                _id = i.Id,
-                i.Title,
-                i.Datetime,
-                i.CreatedAt,
-                i.JobAdvertisementId,
-                Advertiser = i.Job?.Advertiser
-            });
+            var interviewDtos = _mapper.Map<IEnumerable<InterviewResponseDto>>(interviews);
 
-            var formatted = new
-            {
-                interviews = result
-            };
-
-
-            return Ok(formatted);
+            return Ok(new { interviews = interviewDtos });
         }
 
         [HttpPost]
-        public async Task<IActionResult> CreateInterview([FromBody] InterviewDto dto)
+        public async Task<IActionResult> CreateInterview([FromBody] InterviewRequestDto interviewRequestDto)
         {
-            var interview = new Interview
-            {
-                Title = dto.Title,
-                Datetime = dto.Datetime,
-                JobAdvertisementId = dto.JobAdvertisementId,
-                CreatedAt = DateTime.UtcNow
-            };
-
-
+            var interview = _mapper.Map<Interview>(interviewRequestDto);
             var created = await _interviewService.CreateAsync(interview);
             return Ok(new { 
                 interview = created

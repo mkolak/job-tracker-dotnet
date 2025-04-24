@@ -28,8 +28,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "dto",
-        "Type": "InterviewDto",
+        "Name": "interviewRequestDto",
+        "Type": "JobTrackerAPI.WebAPI.Entities.InterviewRequestDto",
         "IsRequired": true
       }
     ],
@@ -91,12 +91,12 @@
       },
       {
         "Name": "StartDate",
-        "Type": "System.String",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
         "IsRequired": false
       },
       {
         "Name": "EndDate",
-        "Type": "System.String",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
         "IsRequired": false
       },
       {
@@ -121,8 +121,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "job",
-        "Type": "JobTrackerAPI.Model.Entities.Job",
+        "Name": "jobRequestDto",
+        "Type": "JobTrackerAPI.WebAPI.Entities.JobRequestDto",
         "IsRequired": true
       }
     ],
@@ -158,8 +158,8 @@
         "IsRequired": true
       },
       {
-        "Name": "job",
-        "Type": "JobTrackerAPI.Model.Entities.Job",
+        "Name": "jobRequestDto",
+        "Type": "JobTrackerAPI.WebAPI.Entities.JobRequestDto",
         "IsRequired": true
       }
     ],
@@ -221,12 +221,12 @@
       },
       {
         "Name": "StartDate",
-        "Type": "System.String",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
         "IsRequired": false
       },
       {
         "Name": "EndDate",
-        "Type": "System.String",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
         "IsRequired": false
       },
       {
@@ -292,12 +292,12 @@
       },
       {
         "Name": "StartDate",
-        "Type": "System.String",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
         "IsRequired": false
       },
       {
         "Name": "EndDate",
-        "Type": "System.String",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
         "IsRequired": false
       },
       {

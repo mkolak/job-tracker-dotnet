@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\JobTrackerAPI.Model\JobTrackerAPI.Model.csproj" />
+    <ProjectReference Include="..\JobTrackerAPI.Repository\JobTrackerAPI.Repository.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

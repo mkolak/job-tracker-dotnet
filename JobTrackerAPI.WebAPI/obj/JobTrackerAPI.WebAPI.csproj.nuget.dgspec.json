@@ -273,6 +273,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.4, )"
@@ -332,6 +336,9 @@
             "projectReferences": {
               "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Model\\JobTrackerAPI.Model.csproj": {
                 "projectPath": "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Model\\JobTrackerAPI.Model.csproj"
+              },
+              "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Repository\\JobTrackerAPI.Repository.csproj": {
+                "projectPath": "D:\\Learning\\.NET\\JobTrackerAPI\\JobTrackerAPI.Repository\\JobTrackerAPI.Repository.csproj"
               }
             }
           }
@@ -505,6 +512,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Autofac": {
               "target": "Package",
               "version": "[8.2.1, )"

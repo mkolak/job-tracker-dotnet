@@ -144,3 +144,5 @@ D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.WebAPI\obj\Debug\net9.0\JobTrackerA
 D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.WebAPI\obj\Debug\net9.0\ref\JobTrackerAPI.WebAPI.dll
 D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.WebAPI\bin\Debug\net9.0\Autofac.dll
 D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.WebAPI\bin\Debug\net9.0\Autofac.Extensions.DependencyInjection.dll
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.WebAPI\bin\Debug\net9.0\AutoMapper.dll
+D:\Learning\.NET\JobTrackerAPI\JobTrackerAPI.WebAPI\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

@@ -1,6 +1,7 @@
 using JobTrackerAPI.Repository;
 using JobTrackerAPI.Repository.Data;
 using JobTrackerAPI.Repository.Common;
+using JobTrackerAPI.Repository.MappingProfiles;
 using JobTrackerAPI.Service;
 using JobTrackerAPI.Service.Common;
 using Microsoft.EntityFrameworkCore;
@@ -26,6 +27,8 @@ builder.Host.ConfigureContainer<ContainerBuilder>(containerBuilder =>
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"))
 );
+
+builder.Services.AddAutoMapper(typeof(Program), typeof(InterviewEntityProfile), typeof(JobEntityProfile));
 
 var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 

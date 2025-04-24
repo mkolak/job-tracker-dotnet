@@ -1,5 +1,5 @@
-﻿using JobTrackerAPI.Model.DTOs;
-using JobTrackerAPI.Model.Entities;
+﻿using JobTrackerAPI.Model.Entities;
+using JobTrackerAPI.Model.DTOs;
 
 namespace JobTrackerAPI.Service.Common
 {
